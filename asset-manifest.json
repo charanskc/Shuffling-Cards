@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shuffling-Cards/static/css/main.09bd84bd.css",
+    "main.js": "/Shuffling-Cards/static/js/main.cde9936d.js",
+    "static/js/787.8f9d6b05.chunk.js": "/Shuffling-Cards/static/js/787.8f9d6b05.chunk.js",
+    "index.html": "/Shuffling-Cards/index.html",
+    "main.09bd84bd.css.map": "/Shuffling-Cards/static/css/main.09bd84bd.css.map",
+    "main.cde9936d.js.map": "/Shuffling-Cards/static/js/main.cde9936d.js.map",
+    "787.8f9d6b05.chunk.js.map": "/Shuffling-Cards/static/js/787.8f9d6b05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bd84bd.css",
+    "static/js/main.cde9936d.js"
+  ]
+}
