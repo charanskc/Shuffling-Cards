@@ -4,6 +4,7 @@ import Movie from "./Movie";
 import Filter from './Filter';
 import Footer from "./Footer";
 import {motion,AnimatePresence} from "framer-motion";
+import Intro from './Intro';
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
 
   return (
     <div className="App">
+      <Intro />
       <Filter popular={popular} setFiltered={setFiltered} activeGenre={activeGenre} setActiveGenre={setActiveGenre} />
      <motion.div layout className="popular-movies">
        <AnimatePresence>

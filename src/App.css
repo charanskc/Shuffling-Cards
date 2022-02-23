@@ -1,3 +1,7 @@
+html{
+  background-color: #263338;
+}
+
 .popular-movies{
   display: grid;
   margin-top: 0.5rem;
@@ -16,6 +20,14 @@ img{
 
 h2{
   font-size: 0.8rem;
+  color: azure;
+}
+
+
+
+h1{
+  color:white;
+  font-size: 3rem;
 }
 
 .filter-container button{
